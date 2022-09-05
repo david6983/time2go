@@ -1,0 +1,18 @@
+## Mac
+.DS_Store
+
+## IDE
+
+.idea
+.vscode
+
+## User settings
+xcuserdata/
+
+## Xcode 8 and earlier
+*.xcscmblueprint
+*.xccheckout
+
+## Production
+release
+log.txt
